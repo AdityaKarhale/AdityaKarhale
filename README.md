@@ -15,19 +15,12 @@
 
 ### 🚀 Highlighted Engineering Projects
 
-- **[Cross-Platform Windows Media Controller](https://github.com/YOUR_USERNAME/REPO_NAME)** — *C#/.NET, WebSockets, PWA*  
+- **[Cross-Platform Windows Media Controller](https://github.com/AdityaKarhale/MediaController)** — *C#/.NET, WebSockets, PWA*  
   Real-time, bi-directional WebSocket server and zero-install mobile PWA enabling low-latency playback and system volume control of Windows desktop apps over a local network.
 
-- **[WeShare — Campus Marketplace](https://github.com/YOUR_USERNAME/REPO_NAME)** — *MongoDB, Express.js, React.js, Node.js*  
+- **[WeShare — Campus Marketplace](https://github.com/AdityaKarhale/WeShare)** — *MongoDB, Express.js, React.js, Node.js*  
   Full-stack peer-to-peer lending and resale platform for university students featuring RESTful CRUD APIs, dynamic category filtering, and dual-mode listing schemas.
 
-- **[Library Management Engine](https://github.com/YOUR_USERNAME/REPO_NAME)** — *C++, Python, SQLite, Tkinter*  
+- **[Library Management Engine](https://github.com/AdityaKarhale/Library-Management-System)** — *C++, Python, SQLite, Tkinter*  
   Two-stage storage architecture project comparing a modular C++ OOP flat-file engine against a normalized Python/SQLite relational database application with a desktop GUI.
 
----
-
-### 📫 Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **Coding Profiles:** [LeetCode](https://leetcode.com/u/your-username)
